@@ -22,7 +22,7 @@ Check out some of the things I'm currently working on learning/practicing
 - Typescript/Node/Express Servers
 - passport(Oauth)
 
-## [Books I'm Reading](/index.md)
+## [Books I'm Reading](/books.md)
 
 - Designing Distributed Systems
 - Designing Data-Intensive Applications
