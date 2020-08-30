@@ -1,17 +1,17 @@
-## Welcome to Vivian Cermeno's website!
+# Welcome to Vivian Cermeno's website!
 
 I'm currently actively working on DockerLocal, DevShark, and Uproot(on Gitlab).
 
 
-### Projects
+## Projects
 
-# [DockerLocal](https://github.com/oslabs-beta/DockerLocal)
+### [DockerLocal](https://github.com/oslabs-beta/DockerLocal)
 
-# [KunligiConnect](https://github.com/KunligiOnline/kunligiconnect)
+### [KunligiConnect](https://github.com/KunligiOnline/kunligiconnect)
 
-# [DevShark](https://github.com/vcermeno/Scratch-Project)
+### [DevShark](https://github.com/vcermeno/Scratch-Project)
 
-# [continuous_learning](https://github.com/vcermeno/continuous_learning)
+### [continuous_learning](https://github.com/vcermeno/continuous_learning)
 Check out some of the things I'm currently working on learning/practicing
 
 - Serverless framework(Lambda, DynamoDB)
