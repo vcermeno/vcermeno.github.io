@@ -1,6 +1,9 @@
 # Welcome to Vivian Cermeno's website!
 
-I'm currently actively working on DockerLocal, DevShark, and Uproot(on Gitlab).
+I'm currently actively working on:
+  - DockerLocal
+  - DevShark
+  - Uproot(on Gitlab).
 
 
 ## Projects
