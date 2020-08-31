@@ -1,3 +1,4 @@
+![](images/bio-photo.jpg)
 # Welcome to Vivian Cermeno's website!
 
 I'm currently actively working on:
