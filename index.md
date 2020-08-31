@@ -3,7 +3,7 @@
 
 ## What I'm currently working on:
   - DockerLocal- refactoring codebase and implementing better practices
-  - DevShark - Deployement on AWS as monolith before refactoring codebase to serverless using Lambda and DynamoDB
+  - DevShark - Deployement on AWS ec2 instance as monolith before refactoring codebase to serverless using Lambda and DynamoDB
   - Uproot(on Gitlab)
 
 
