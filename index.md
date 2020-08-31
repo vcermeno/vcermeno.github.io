@@ -1,10 +1,16 @@
 ![](images/bio-photo.jpg)
 # Welcome to Vivian Cermeno's website!
 
-I'm currently actively working on:
+## What I'm currently working on:
   - DockerLocal- refactoring codebase and implementing better practices
   - DevShark - Deployement on AWS as monolith before refactoring codebase to serverless using Lambda and DynamoDB
   - Uproot(on Gitlab)
+
+
+## Books I'm Reading
+
+- Designing Distributed Systems - [Notes](/books/designing-distributed-systems.md)
+- Designing Data-Intensive Applications - [Notes](/books/designing-data-intensive-apps.md)
 
 
 ## Projects
@@ -33,8 +39,3 @@ About: Check out some of the things I'm currently working on learning/practicing
 - GraphQL
 - Typescript/Node/Express Servers
 - passport(Oauth)
-
-## [Books I'm Reading](/books.md)
-
-- Designing Distributed Systems
-- Designing Data-Intensive Applications
